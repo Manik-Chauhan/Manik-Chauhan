@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I am Manik Chauhan
+![](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ktjftbh4vib1vcyyu8rr2q0gokg6vh7kg9qff6zg&rid=giphy.gif&ct=g)
 
-<!--
-**Manik-Chauhan/Manik-Chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm a Web Developer, Competetive Programmer, a Technical Writer, and an Open Source Enthusiast who is highly passionate about building fast, creative applications and writing beautiful code. Building beautiful websites from scratch is my areas of interest and I've been working to enhance my skills.
+Also, I love to build and design, Experiences which make peoples life easy.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS / NODEJS / MONGODB / EXPRESS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on DSA 
+- 🌱 I’m currently learning Machine Learning 
+- 📫 How to reach me: http://manik.atspace.cc/ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Manik-Chauhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chauhan-manik//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://manik.atspace.cc/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manik-Chauhan&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Manik-Chauhan)  
+
+![Profile views](https://gpvc.arturio.dev/Manik-Chauhan)  
